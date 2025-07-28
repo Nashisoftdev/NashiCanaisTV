@@ -62,7 +62,7 @@ let selectedFileContent=null;
 var player=new shaka.Player(videoElement);
 var channels;var lastActiveChannel;shaka.polyfill.installAll();document.getElementById('upload-button').remove();document.getElementById('url-input').remove();
 document.getElementById('fetch-button').remove();
-const m3u8Link='https://raw.githubusercontent.com/riscadodigital/IP/refs/heads/main/canaisespanha.m3u';setPlaylistFromUrl(m3u8Link);
+const m3u8Link='https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/canaisespanha.m3u';setPlaylistFromUrl(m3u8Link);
 fetchButton.addEventListener('click',async()=>{const url=urlInput.value;
 if(selectedFileContent){setPlaylistFromFile(selectedFileContent)}
 else if(url){setPlaylistFromUrl(url)}});fileInput.addEventListener('change',(event)=>{const file=event.target.files[0];
