@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="HispanTV.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/HispanTV.png" group-title="España",HispanTV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+#EXTINF:-1 tvg-id="RTVE.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/RTVE_24h.png" group-title="España",RTVE 24h
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
+
+#EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/TVGalicia.png" group-title="Galícia",TVG - Galicia TV América
+https://crtvg-america.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVG.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/TVGalicia.png" group-title="Galícia",TVG - Galícia TV Europa
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aragón.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/AragonTV.png" group-title="España",Aragón TV
+https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="Beteve.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/Beteve.png" group-title="España",Betevé
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=f8d03982-eaee-2e69-5ae3-6c86b62a4c2b
+
+
+#EXTINF:-1 tvg-id="BonDiaTV.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/BonDiaTV.png" group-title="España",Bon Dia TV
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="SanRoqueTV.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/SanRoqueTV.png" group-title="España",San Roque TV
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OndaCadiz.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/OndaC%C3%A1diz.png" group-title="España",Onda Cádiz
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SolMusica.es" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/logos-canais-espanha/SolM%C3%BAsica.png" group-title="España",Sol Música
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
+
+
+
+
+
