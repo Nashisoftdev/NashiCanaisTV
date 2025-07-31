@@ -159,6 +159,8 @@ https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 #EXTINF:-1  tvg-id="TVAztecaGuate.gt" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-americalatina/nashi_tvaztecaguate_gt.png" group-title="Guatemala",TV Azteca Guatemala
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
+#EXTINF:-1  tvg-id="VisionTV.gt" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-americalatina/nashi_visiontv_gt.png" group-title="Guatemala",Vision TV Guatemala
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
 
 #República Dominicana
