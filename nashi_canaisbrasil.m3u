@@ -23,6 +23,11 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:-1  tvg-id="RedeUTVBrasil.br" tvg-logo="https://i.imgur.com/Epw7YBj.png" group-title="Brasil",Rede UTV Brasil
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
+#EXTINF:-1  tvg-id="NGT.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_NGT.png" group-title="Brasil",NGT Brasil
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+
+
+
 #EXTINF:-1  tvg-id="RCTV.br" tvg-logo="https://i.imgur.com/nSOcZMg.png" group-title="Brasil",Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
