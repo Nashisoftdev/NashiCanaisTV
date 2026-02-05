@@ -16,7 +16,7 @@ https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/80zeYLs.png" group-title="Brasil",Rede Brasil TV
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_redebrasiltv.png" group-title="Brasil",Rede Brasil TV
 https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
 
 
