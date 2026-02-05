@@ -9,7 +9,7 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/hwpTl58.png" group-title="Brasil",Record News
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_recordnews.png" group-title="Brasil",Record News
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
 
 
