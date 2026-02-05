@@ -38,7 +38,7 @@ https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
 #EXTINF:-1  tvg-id="AWTV.br" tvg-logo="https://i.imgur.com/2gUlXDH.png" group-title="Brasil",AWTV
-https://streaming.cloudecast.com/hls/awtv/index.m3u8
+https://awtv.nuvemplay.live/hls/stream.m3u8
 
 
 #EXTINF:-1  tvg-id="VivaxTV.br" tvg-logo="https://i.imgur.com/jyVIgp0.png" group-title="Brasil",Vivax TV
