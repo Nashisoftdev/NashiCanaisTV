@@ -4,7 +4,7 @@
 https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
 
 
-#EXTINF:-1  tvg-id="RecordTV.br" tvg-logo="https://i.imgur.com/Codbtrw.png" group-title="Brasil",Record TV
+#EXTINF:-1  tvg-id="RecordTV.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_record.png" group-title="Brasil",Record TV
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 
