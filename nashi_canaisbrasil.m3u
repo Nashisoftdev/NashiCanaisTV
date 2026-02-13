@@ -28,7 +28,7 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8
 
 
 
-#EXTINF:-1  tvg-id="RCTV.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_rctvbrasil.png" group-title="Brasil", RCTV Brasil
+#EXTINF:-1  tvg-id="RCTV.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_rctvbrasil.png" group-title="Brasil",RCTV Brasil
 https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 
 #EXTINF:-1  tvg-id="ISTV.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_istv.png" group-title="Brasil",ISTV
@@ -90,7 +90,7 @@ https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-id="1980Channel.br" tvg-logo="https://i.imgur.com/SR9SHEv.png" group-title="Brasil",1980 Channel
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RadioTVClassicos.br" tvg-logo="https://i.imgur.com/GfIoE0o.png" group-title="Brasil", Rádio e TV Clássicos FM
+#EXTINF:-1 tvg-id="RadioTVClassicos.br" tvg-logo="https://i.imgur.com/GfIoE0o.png" group-title="Brasil",Rádio e TV Clássicos FM
 https://v01.taaqui.org/joel/joel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TVClassicosCinema.br" tvg-logo="https://i.imgur.com/6m0L39c.png" group-title="Brasil",TV Clássicos do Cinema
@@ -110,7 +110,6 @@ https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-id="TVSeries.br" tvg-logo="https://i.imgur.com/8kFAZAH.png" group-title="Brasil",TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
@@ -124,10 +123,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 
 
-
 #EXTINF:-1 tvg-id="MovieSphere.br" tvg-logo="https://i.imgur.com/XlQ3mal.png" group-title="Brasil",MovieSphere
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
-
 
 
 
