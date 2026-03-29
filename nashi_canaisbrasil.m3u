@@ -136,7 +136,7 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1445812151.m3u8
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="RadioInterativa.br" tvg-logo="" group-title="Brasil",Rádio Interativa
+#EXTINF:-1 tvg-id="RadioInterativa.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_radiointerativa.png" group-title="Brasil",Rádio Interativa
 https://video09.logicahost.com.br/interativafm/interativafm/playlist.m3u8
 
 
