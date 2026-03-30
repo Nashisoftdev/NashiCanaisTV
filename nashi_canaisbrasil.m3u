@@ -58,7 +58,7 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-id="TVCamara.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_tvcamara.png" group-title="Brasil",TV Câmara
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/zkUf9QR.png" group-title="Brasil",Adesso TV
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_adessotv.png" group-title="Brasil",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 
 
