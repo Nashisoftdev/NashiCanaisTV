@@ -41,7 +41,7 @@ https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 https://awtv.nuvemplay.live/hls/stream.m3u8
 
 
-#EXTINF:-1  tvg-id="VivaxTV.br" tvg-logo="https://i.imgur.com/jyVIgp0.png" group-title="Brasil",Vivax TV
+#EXTINF:-1  tvg-id="VivaxTV.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_vivaxtv.png" group-title="Brasil",Vivax TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
 
