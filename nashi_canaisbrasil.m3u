@@ -49,7 +49,7 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_tvbrasil.png" group-title="Brasil",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1  tvg-id="CanalGov.br" tvg-logo="https://i.imgur.com/VE9YnDA.png" group-title="Brasil",Canal Gov
+#EXTINF:-1  tvg-id="CanalGov.br" tvg-logo="https://raw.githubusercontent.com/Nashisoftdev/NashiCanaisTV/refs/heads/main/nashi_logos-canais-brasil/nashi_canalgov.png" group-title="Brasil",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="TVCultura.br" tvg-logo="https://i.imgur.com/HTTu5yO.png" group-title="Brasil",TV Cultura
