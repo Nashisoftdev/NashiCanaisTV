@@ -287,3 +287,23 @@ footer {
 	align-content: center;
 	justify-content: center;	
 }
+
+
+
+
+@media(max-width:950px){
+	#playlist{
+		display: none		
+	
+	}
+	
+}
+
+@media(max-width:700px){
+	#playlist{
+		display: flex;
+		flex-direction: column	
+	
+	}
+	
+}
